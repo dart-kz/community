@@ -1,5 +1,5 @@
 
-# Казахстанское сообщество RuDart
+# Казахстанское сообщество Dart_KZ
 
 Сообщество посвящено языку программирования Dart, а также всему, что его окружает (Flutter, AngularDart, Backend etc).
 
@@ -10,7 +10,6 @@ _Основное общение:_
 
  - [Ответы на частые вопросы](https://github.com/rudart/community/blob/master/faq.md)
  - [Полезная информация на русском языке](https://github.com/rudart/community/blob/master/ru_resources.md)
- - [Полезная информация на английском языке](https://github.com/rudart/community/blob/master/ru_resources.md)
 
 ## [](https://github.com/dart-kz/community#Правила)Правила
 

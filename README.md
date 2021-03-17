@@ -10,7 +10,8 @@ _Основное общение:_
 
  - [Ответы на частые вопросы](https://github.com/rudart/community/blob/master/faq.md)
  - [Полезная информация на русском языке](https://github.com/rudart/community/blob/master/ru_resources.md)
-
+ - [Полезная информация на английском языке](https://www.solutelabs.com/blog/top-10-flutter-repositories-on-github)
+ 
 ## [](https://github.com/dart-kz/community#Правила)Правила
 
 #### Запрещено (моментальный бан)
